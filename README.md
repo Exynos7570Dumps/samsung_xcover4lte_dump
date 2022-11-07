@@ -1,0 +1,18 @@
+## xcover4ltexx-user 9 PPR1.180610.011 G390FXXS6CTI3 release-keys
+- Manufacturer: samsung
+- Platform: 
+- Codename: xcover4lte
+- Brand: samsung
+- Flavor: xcover4ltexx-user
+- Release Version: 9
+- Id: PPR1.180610.011
+- Incremental: G390FXXS6CTI3
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: samsung/xcover4ltexx/xcover4lte:9/PPR1.180610.011/G390FXXS6CTI3:user/release-keys
+- OTA version: 
+- Branch: xcover4ltexx-user-9-PPR1.180610.011-G390FXXS6CTI3-release-keys
+- Repo: samsung/xcover4lte
